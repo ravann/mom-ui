@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Temp fix for firebase cert issues
+
+export NODE_TLS_REJECT_UNAUTHORIZED=0
+
